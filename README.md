@@ -14,7 +14,7 @@ This repository contains the source code for a personal website landing page.
 
 ## Overview
 
-This project is a simple and responsive personal website landing page built using HTML, CSS, SCSS, and JavaScript.
+This project is a simple and responsive personal website landing page built using HTML, CSS, SCSS, and JavaScript. You can view the live website [here](https://saadali05.github.io/Landing-page/).
 
 ## Features
 
@@ -53,5 +53,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 For any inquiries, please contact Saad Ali at saadali05@gmail.com.
 
 ---
-
-Feel free to customize the content as needed.
