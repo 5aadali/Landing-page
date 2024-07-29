@@ -1,7 +1,3 @@
-Here's a README file for your Landing Page project:
-
----
-
 # Landing Page
 
 This repository contains the source code for a personal website landing page.
